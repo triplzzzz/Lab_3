@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="guessed">Угадал!</string>
+    <string name="not_guessed">Не угадал!</string>
+    <string name="enter_number">Введите число!</string>
+
+</resources>
